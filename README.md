@@ -47,20 +47,9 @@ analisis-cobertura-forestal-yolombo/
 ├── notebooks/
 │   └── analisis_yolombo.ipynb
 │
-├── data/
-│   ├── shapefiles/
-│   ├── tiles/
-│   └── grid/
+├── tiles/
 │
-├── qgis_scripts/
-│   ├── crear_cuadricula.py
-│   ├── filtrar_cuadricula.py
-│   └── exportar_tiles.py
-│
-├── results/
-│   ├── mapas_clusters/
-│   ├── indices/
-│   └── resumen/
+├── resultados
 │
 └── README.md
 ```

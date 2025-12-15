@@ -1,4 +1,4 @@
-﻿num_patches,forest_coverage,mean_patch_size,largest_patch,smallest_patch,std_patch_size,tile
+num_patches,forest_coverage,mean_patch_size,largest_patch,smallest_patch,std_patch_size,tile
 14760,66.31570959463562,390.76666666666665,5126277,1,42235.01090741526,tile_0.png
 20203,61.28018157233919,263.8102262040291,2899225,1,23383.93925717416,tile_1.png
 9822,80.61262268090546,713.8230502952556,6804667,1,68657.59228959403,tile_10.png
